@@ -18,8 +18,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Default Bundle
 
-- [ROM A](/rom_a_2.bin)
-- [ROM B](/rom_b_2.bin)
+- [ROM A](rom_a_2.bin)
+- [ROM B](rom_b_2.bin)
 
 | Bit Pattern | Name           |
 | ----------- | -------------- |
@@ -28,8 +28,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Reversed "r"
 
-- [ROM A](/rom_a_2_r.bin)
-- [ROM B](/rom_b_2_r.bin)
+- [ROM A](rom_a_2_r.bin)
+- [ROM B](rom_b_2_r.bin)
 
 | Bit Pattern | Name           |
 | ----------- | -------------- |

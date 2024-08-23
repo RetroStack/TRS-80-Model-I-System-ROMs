@@ -28,8 +28,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Default Bundle
 
-- [ROM A](/rom_a_8.bin)
-- [ROM B](/rom_b_8.bin)
+- [ROM A](rom_a_8.bin)
+- [ROM B](rom_b_8.bin)
 
 | Bit Pattern | Name                   |
 | ----------- | ---------------------- |
@@ -44,8 +44,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Reversed "r"
 
-- [ROM A](/rom_a_8_r.bin)
-- [ROM B](/rom_b_8_r.bin)
+- [ROM A](rom_a_8_r.bin)
+- [ROM B](rom_b_8_r.bin)
 
 | Bit Pattern | Name                   |
 | ----------- | ---------------------- |
@@ -60,8 +60,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Flipped "f"
 
-- [ROM A](/rom_a_8_f.bin)
-- [ROM B](/rom_b_8_f.bin)
+- [ROM A](rom_a_8_f.bin)
+- [ROM B](rom_b_8_f.bin)
 
 | Bit Pattern | Name                   |
 | ----------- | ---------------------- |
@@ -76,8 +76,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Reversed & Flipped "rf"
 
-- [ROM A](/rom_a_8_rf.bin)
-- [ROM B](/rom_b_8_rf.bin)
+- [ROM A](rom_a_8_rf.bin)
+- [ROM B](rom_b_8_rf.bin)
 
 | Bit Pattern | Name                   |
 | ----------- | ---------------------- |

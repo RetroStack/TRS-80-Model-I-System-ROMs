@@ -24,8 +24,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Default Bundle
 
-- [ROM A](/rom_a_4.bin)
-- [ROM B](/rom_b_4.bin)
+- [ROM A](rom_a_4.bin)
+- [ROM B](rom_b_4.bin)
 
 | Bit Pattern | Name                   |
 | ----------- | ---------------------- |
@@ -36,8 +36,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Reversed "r"
 
-- [ROM A](/rom_a_4_r.bin)
-- [ROM B](/rom_b_4_r.bin)
+- [ROM A](rom_a_4_r.bin)
+- [ROM B](rom_b_4_r.bin)
 
 | Bit Pattern | Name                   |
 | ----------- | ---------------------- |
@@ -48,8 +48,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Flipped "f"
 
-- [ROM A](/rom_a_4_f.bin)
-- [ROM B](/rom_b_4_f.bin)
+- [ROM A](rom_a_4_f.bin)
+- [ROM B](rom_b_4_f.bin)
 
 | Bit Pattern | Name                   |
 | ----------- | ---------------------- |
@@ -60,8 +60,8 @@ Each bundle is grouped by format, identified by a code:
 
 ## Reversed & Flipped "rf"
 
-- [ROM A](/rom_a_4_rf.bin)
-- [ROM B](/rom_b_4_rf.bin)
+- [ROM A](rom_a_4_rf.bin)
+- [ROM B](rom_b_4_rf.bin)
 
 | Bit Pattern | Name                   |
 | ----------- | ---------------------- |
