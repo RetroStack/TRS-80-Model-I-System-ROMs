@@ -2,6 +2,12 @@
 
 Within this repository, various versions of the Model 1 system ROMs are available in different bundles. This is useful for anyone looking to recreate the system ROMs using modern and readily available ROMs.
 
+## Adapter Board
+
+This repository is dedicated exclusively to the ROM binaries. There is a separate repository for the Adapter used with the TRS-80 Model 1. However, this adapter is a versatile PCB compatible with various machines, not just the TRS-80 Model 1.
+
+If you plan to use these adapter boards with the Model 1, no extra configuration is needed. There's no need to add an additional IC or modify solder jumpers, as the default setup is already configured for the two required ROMs. Even though the second ROM should technically be a 2332, it can remain configured as a 2364, since the Model 1's address selection circuitry prevents any bus contention.
+
 ## ROM Bundles
 
 The bundles listed below are categorized by their sizes, using standard IC identifiers such as 2x64 and 2x512. Examples include 2764, 27512, and 28512. To calculate the sizes of these ROMs, use the number after the "x" and divide it by 8 (since these ROMs handle 8 bits). For instance, 512/8 = 64.
