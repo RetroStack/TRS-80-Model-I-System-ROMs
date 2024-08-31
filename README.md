@@ -4,7 +4,7 @@ Within this repository, various versions of the Model 1 system ROMs are availabl
 
 ## Adapter Board
 
-This repository is dedicated exclusively to the ROM binaries. There is a separate repository for the Adapter used with the TRS-80 Model 1. However, this adapter is a versatile PCB compatible with various machines, not just the TRS-80 Model 1.
+This repository is dedicated exclusively to the ROM binaries. There is a [separate repository for the Adapter](https://github.com/RetroStack/2332_2364-ROM_Adapter) used with the TRS-80 Model 1. However, this adapter is a versatile PCB compatible with various machines, not just the TRS-80 Model 1.
 
 If you plan to use these adapter boards with the Model 1, no extra configuration is needed. There's no need to add an additional IC or modify solder jumpers, as the default setup is already configured for the two required ROMs. Even though the second ROM should technically be a 2332, it can remain configured as a 2364, since the Model 1's address selection circuitry prevents any bus contention.
 
