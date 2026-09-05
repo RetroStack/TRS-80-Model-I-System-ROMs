@@ -20,10 +20,10 @@ If you have a Rev G board, you can simply plug them in. For all versions before 
 
 The following bundles are available:
 
-- [Binaries for 2x64 ROMs - 8kb](/1-Option_2x64) - Individual ROMs, unbundled
-- [Bundles for 2x128 ROMs - 16kb](/2-Option_2x128) - Bundles of two different ROM versions
-- [Bundles for 2x256 ROMs - 32kb](/4-Option_2x256) - Bundles of four different ROM versions
-- [Bundles for 2x512 ROMs - 64kb](/8-Option_2x512) - Bundles of eight different ROM versions
+- [Binaries for 2x64 ROMs - 8kb](1-Option_2x64) - Individual ROMs, unbundled - all eight versions
+- [Bundles for 2x128 ROMs - 16kb](2-Option_2x128) - Bundles of two different ROM versions
+- [Bundles for 2x256 ROMs - 32kb](4-Option_2x256) - Bundles of four different ROM versions
+- [Bundles for 2x512 ROMs - 64kb](8-Option_2x512) - Bundles of eight different ROM versions
 
 ## Main TRS-80 Model 1 Repository
 
